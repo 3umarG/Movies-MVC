@@ -265,3 +265,4 @@ D:\CS_projects\BooksMVC\MoviesWebApp\obj\Debug\net6.0\refint\MoviesWebApp.dll
 D:\CS_projects\BooksMVC\MoviesWebApp\obj\Debug\net6.0\MoviesWebApp.pdb
 D:\CS_projects\BooksMVC\MoviesWebApp\obj\Debug\net6.0\MoviesWebApp.genruntimeconfig.cache
 D:\CS_projects\BooksMVC\MoviesWebApp\obj\Debug\net6.0\ref\MoviesWebApp.dll
+D:\CS_projects\BooksMVC\MoviesWebApp\bin\Debug\net6.0\libman.json

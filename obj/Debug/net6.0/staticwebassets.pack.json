@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\MoviesWebApp.bundle.scp.css"
     },
     {
+      "Id": "D:\\CS_projects\\BooksMVC\\MoviesWebApp\\wwwroot\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-icons\\font\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "D:\\CS_projects\\BooksMVC\\MoviesWebApp\\wwwroot\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\CS_projects\\BooksMVC\\MoviesWebApp\\wwwroot\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
+    },
+    {
       "Id": "D:\\CS_projects\\BooksMVC\\MoviesWebApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
