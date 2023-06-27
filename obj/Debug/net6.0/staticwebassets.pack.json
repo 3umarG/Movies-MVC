@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\MoviesWebApp.bundle.scp.css"
     },
     {
+      "Id": "D:\\CS_projects\\BooksMVC\\MoviesWebApp\\wwwroot\\bootstrap-datepicker\\css\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-datepicker\\css\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "D:\\CS_projects\\BooksMVC\\MoviesWebApp\\wwwroot\\bootstrap-datepicker\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\bootstrap-datepicker\\js\\bootstrap-datepicker.min.js"
+    },
+    {
       "Id": "D:\\CS_projects\\BooksMVC\\MoviesWebApp\\wwwroot\\bootstrap-icons\\font\\bootstrap-icons.min.css",
       "PackagePath": "staticwebassets\\bootstrap-icons\\font\\bootstrap-icons.min.css"
     },

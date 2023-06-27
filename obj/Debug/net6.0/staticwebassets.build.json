@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TGTGwN1gJByOXdpaymT0Md7FP6+7yxi2QNBtUv/uLDM=",
+  "Hash": "bTR61VGiUcBXKXnVCi9IpvNcLoJkddg8SBS5S+371fs=",
   "Source": "MoviesWebApp",
   "BasePath": "_content/MoviesWebApp",
   "Mode": "Default",
@@ -49,6 +49,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\CS_projects\\BooksMVC\\MoviesWebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MoviesWebApp.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\CS_projects\\BooksMVC\\MoviesWebApp\\wwwroot\\bootstrap-datepicker\\css\\bootstrap-datepicker.min.css",
+      "SourceId": "MoviesWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CS_projects\\BooksMVC\\MoviesWebApp\\wwwroot\\",
+      "BasePath": "_content/MoviesWebApp",
+      "RelativePath": "bootstrap-datepicker/css/bootstrap-datepicker.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap-datepicker\\css\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Identity": "D:\\CS_projects\\BooksMVC\\MoviesWebApp\\wwwroot\\bootstrap-datepicker\\js\\bootstrap-datepicker.min.js",
+      "SourceId": "MoviesWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CS_projects\\BooksMVC\\MoviesWebApp\\wwwroot\\",
+      "BasePath": "_content/MoviesWebApp",
+      "RelativePath": "bootstrap-datepicker/js/bootstrap-datepicker.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap-datepicker\\js\\bootstrap-datepicker.min.js"
     },
     {
       "Identity": "D:\\CS_projects\\BooksMVC\\MoviesWebApp\\wwwroot\\bootstrap-icons\\font\\bootstrap-icons.min.css",
